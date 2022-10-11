@@ -1,7 +1,9 @@
 package bontech.bontech.blocks;
 
 import bontech.bontech.BonTech;
+import bontech.bontech.blocks.refineries.Bloom;
 import bontech.bontech.items.BonTechItems;
+import bontech.bontech.items.groups.BonTechItemGroups;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -17,6 +19,7 @@ public class BonTechBlocks {
     public static final Block MACHINE_FRAME = register("machine_frame", new MachineFrame(FabricBlockSettings.copy(Blocks.IRON_BLOCK)));
 
     public static final Block CLAY = register("clay", new Block(FabricBlockSettings.copy(Blocks.CLAY)));
+    public static final Block BLOOM = register("bloom", new Bloom(FabricBlockSettings.copy(Blocks.CLAY)));
 
     public BonTechBlocks()
     {}
@@ -29,7 +32,7 @@ public class BonTechBlocks {
     }
 
     static <T extends Block> T register(String name, T block) {
-        return register(name, block, new Item.Settings().group(ItemGroup.MISC));
+        return register(name, block, new Item.Settings().group(BonTechItemGroups.BLOCKS));
     }
 
     static <T extends Block> T register(String name, T block, Function<T, BlockItem> itemFactory) {

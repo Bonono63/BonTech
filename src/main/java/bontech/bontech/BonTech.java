@@ -1,6 +1,7 @@
 package bontech.bontech;
 
 import bontech.bontech.blocks.BonTechBlocks;
+import bontech.bontech.blocks.entities.BonTechBlockEntity;
 import bontech.bontech.items.BonTechItems;
 import bontech.bontech.items.groups.BonTechItemGroups;
 import net.fabricmc.api.ModInitializer;
@@ -16,6 +17,7 @@ public class BonTech implements ModInitializer {
     public void onInitialize() {
         BonTechItems.init();
         BonTechBlocks.init();
+        BonTechBlockEntity.init();
         BonTechItemGroups.init();
     }
 }

@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2022-10-09 15:11:53 -0400",
+      "minecraft:swamp": "2022-10-09 15:12:26 -0400",
+      "minecraft:forest": "2022-10-09 15:12:24 -0400",
+      "minecraft:plains": "2022-10-09 12:22:56 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
