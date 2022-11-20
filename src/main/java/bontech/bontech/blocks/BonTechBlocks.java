@@ -17,9 +17,10 @@ import java.util.function.Function;
 public class BonTechBlocks {
 
     public static final Block MACHINE_FRAME = register("machine_frame", new MachineFrame(FabricBlockSettings.copy(Blocks.IRON_BLOCK)));
+    public static final Block ANVIL = register("anvil", new Block(FabricBlockSettings.copy(Blocks.IRON_BLOCK)));
 
     public static final Block CLAY = register("clay", new Block(FabricBlockSettings.copy(Blocks.CLAY)));
-    public static final Block BLOOM = register("bloom", new Bloom(FabricBlockSettings.copy(Blocks.CLAY)));
+    public static final Block BLOOMERY = register("bloomery", new Bloom(FabricBlockSettings.copy(Blocks.CLAY)));
 
     public BonTechBlocks()
     {}

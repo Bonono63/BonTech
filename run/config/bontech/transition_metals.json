@@ -1,0 +1,28 @@
+{
+  "types": [ "ingot", "nugget" ],
+  "materials": [
+    { "display_name": "Titanium", "id": "titanium", "atomic_symbol": "Ti", "mass_number": 47, "atomic_number": 22, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xfcefd9" },
+    { "display_name": "Chromium", "id": "chromium", "atomic_symbol": "Cr", "mass_number": 51, "atomic_number": 24, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xd8d8d8" },
+    { "display_name": "Manganese", "id": "manganese", "atomic_symbol": "Mn", "mass_number": 54, "atomic_number": 25, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xfcb8e3" },
+    { "display_name": "Iron", "id": "iron", "atomic_symbol": "Fe", "mass_number": 55, "atomic_number": 26, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xffffff" },
+    { "display_name": "Cobalt", "id": "cobalt", "atomic_symbol": "Co", "mass_number": 58, "atomic_number": 27, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x847bfc" },
+    { "display_name": "Nickel", "id": "nickel", "atomic_symbol": "Ni", "mass_number": 58, "atomic_number": 28, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xebeafc" },
+    { "display_name": "Copper", "id": "copper", "atomic_symbol": "Cu", "mass_number": 63, "atomic_number": 29, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xfc6837" },
+    { "display_name": "Zinc", "id": "zinc", "atomic_symbol": "Zn", "mass_number": 65, "atomic_number": 30, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xfcdba9" },
+    { "display_name": "Gallium", "id": "gallium", "atomic_symbol": "Ga", "mass_number": 69, "atomic_number": 31, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x8099fc" },
+    { "display_name": "Silver", "id": "silver", "atomic_symbol": "Ag", "mass_number": 107, "atomic_number": 47, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xbdfcf1" },
+    { "display_name": "Tin", "id": "tin", "atomic_symbol": "Sn", "mass_number": 118, "atomic_number": 50, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xfcedb0" },
+    { "display_name": "Neodymium", "id": "neodymium", "atomic_symbol": "Nd", "mass_number": 144, "atomic_number": 60, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xffffff" },
+    { "display_name": "Tungsten", "id": "tungsten", "atomic_symbol": "W", "mass_number": 183, "atomic_number": 74, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xc5fcbd" },
+    { "display_name": "Osmium", "id": "osmium", "atomic_symbol": "Os", "mass_number": 190, "atomic_number": 76, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x6cfafc" },
+    { "display_name": "Iridium", "id": "iridium", "atomic_symbol": "Ir", "mass_number": 192, "atomic_number": 77, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xfce0fb" },
+    { "display_name": "Platinum", "id": "platinum", "atomic_symbol": "Pt", "mass_number": 195, "atomic_number": 78, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xcce6fc" },
+    { "display_name": "Gold", "id": "gold", "atomic_symbol": "Au", "mass_number": 196, "atomic_number": 79, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xfcdb46" },
+    { "display_name": "Mercury", "id": "mercury", "atomic_symbol": "Hg", "mass_number": 200, "atomic_number": 80, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x7149f4" },
+    { "display_name": "Lead", "id": "lead", "atomic_symbol": "Pd", "mass_number": 207, "atomic_number": 82, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x1f0244" },
+    { "display_name": "Bismuth", "id": "bismuth", "atomic_symbol": "Bi", "mass_number": 208, "atomic_number": 83, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xffffff" },
+    { "display_name": "Thorium", "id": "thorium", "atomic_symbol": "Th", "mass_number": 232, "atomic_number": 90, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x2b2b2b" },
+    { "display_name": "Uranium", "id": "uranium", "atomic_symbol": "U", "mass_number": 238, "atomic_number": 92, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x10ba1c" },
+    { "display_name": "Plutonium", "id": "plutonium", "atomic_symbol": "Pu", "mass_number": 244, "atomic_number": 94, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xe51c02" }
+  ]
+}

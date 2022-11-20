@@ -1,0 +1,11 @@
+{
+  "types": [ "" ],
+  "materials": [
+    { "display_name": "Carbon", "id": "carbon", "atomic_symbol": "C", "mass_number": 12, "atomic_number": 6, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
+    { "display_name": "Nitrogen", "id": "nitrogen", "atomic_symbol": "N", "mass_number": 14, "atomic_number": 7, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
+    { "display_name": "Oxygen", "id": "oxygen", "atomic_symbol": "O", "mass_number": 15, "atomic_number": 8, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
+    { "display_name": "Phosphorus", "id": "phosphorus", "atomic_symbol": "P", "mass_number": 30, "atomic_number": 15, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
+    { "display_name": "Sulfur", "id": "sulfur", "atomic_symbol": "S", "mass_number": 32, "atomic_number": 16, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
+    { "display_name": "Selenium", "id": "selenium", "atomic_symbol": "Se", "mass_number": 78, "atomic_number": 34, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" }
+  ]
+}

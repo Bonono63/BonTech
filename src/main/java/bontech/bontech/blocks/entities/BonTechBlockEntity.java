@@ -12,7 +12,7 @@ public class BonTechBlockEntity {
 
     public static final BlockEntityType<BloomBlockEntity> BLOOM_BLOCK_ENTITY = Registry.register(Registry.BLOCK_ENTITY_TYPE,
             new Identifier(BonTech.MOD_ID, "bloom_block_entity"),
-            FabricBlockEntityTypeBuilder.create(BloomBlockEntity::new, BonTechBlocks.BLOOM).build()
+            FabricBlockEntityTypeBuilder.create(BloomBlockEntity::new, BonTechBlocks.BLOOMERY).build()
     );
 
     public BonTechBlockEntity(){}

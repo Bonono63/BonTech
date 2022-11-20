@@ -1,5 +1,6 @@
 package bontech.bontech.blocks;
 
+import bontech.bontech.materials.Material;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.ShapeContext;
@@ -9,22 +10,22 @@ import net.minecraft.util.shape.VoxelShape;
 import net.minecraft.util.shape.VoxelShapes;
 import net.minecraft.world.BlockView;
 
+import java.util.List;
+
 public class MachineFrame extends Block {
 
-    private static final int number_of_face_mount_points = 9;
-
     public MachineFrame(Settings settings) {
-        super(settings);
+        super(settings.nonOpaque());
     }
 
-    public static int getNumberOfMountPoints(){
-        int x = getNumberOfFaceMountPoints();
-        return x * 6;
+    public static Material[] faces;
+
+    public static void setFaces(Material[] faces) {
+        MachineFrame.faces = faces;
     }
 
-    public static int getNumberOfFaceMountPoints()
-    {
-        return number_of_face_mount_points;
+    public static Material[] getFaces() {
+        return faces;
     }
 
     @Override

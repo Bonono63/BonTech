@@ -1,0 +1,6 @@
+{
+  "types": [ "" ],
+  "materials": [
+    { "display_name": "Aluminum", "id": "aluminum", "atomic_symbol": "Al", "mass_number": 26, "atomic_number": 13, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xffffff" }
+  ]
+}

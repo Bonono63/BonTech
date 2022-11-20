@@ -18,6 +18,12 @@
     "main": [
       "bontech.bontech.BonTech"
     ],
+    "fabric-datagen": [
+      "bontech.bontech.datagen.DataGen"
+    ],
+    "server": [
+      "bontech.bontech.server.BonTechServer"
+    ],
     "modmenu":[
      "bontech.bontech.compat.ModMenuCompat"
     ]
@@ -28,7 +34,7 @@
   "depends": {
     "fabricloader": ">=0.13.3",
     "fabric": "*",
-    "minecraft": "1.19.x"
+    "minecraft": "1.18.x"
   },
   "custom": {
     "modmenu": {
