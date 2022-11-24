@@ -3,7 +3,7 @@ package bontech.bontech.client;
 import bontech.bontech.BonTech;
 import bontech.bontech.blocks.BonTechBlocks;
 import bontech.bontech.config.Config;
-import bontech.bontech.config.MaterialGroup;
+import bontech.bontech.materials.MaterialGroup;
 import bontech.bontech.materials.Material;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;

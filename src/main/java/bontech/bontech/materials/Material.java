@@ -31,4 +31,9 @@ public class Material {
     }
 
     public static Material EMPTY = new Material("empty", "empty", "empty", 0,0,0,0,0,0,0,0);
+
+    @Override
+    public String toString() {
+        return "Display: " + DisplayName + " id: " + id + " Symbol: " + atomic_symbol + " Mass: " + mass_number + " Number: "+ atomic_number + " Charge: " + charge + " Density: " + density + " g/cm^3 Moh: " + strength + " Melting: " + melting_point + " Boiling: " + boiling_point + " Color: " + color;
+    }
 }

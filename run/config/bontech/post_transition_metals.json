@@ -1,6 +1,12 @@
 {
-  "types": [ "" ],
+  "types": [ "ingot", "nugget" ],
   "materials": [
-    { "display_name": "Aluminum", "id": "aluminum", "atomic_symbol": "Al", "mass_number": 26, "atomic_number": 13, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xffffff" }
+    { "display_name": "Aluminum", "id": "aluminum", "atomic_symbol": "Al", "mass_number": 26.981, "atomic_number": 13, "charge": -3, "density": 2.70, "strength": 2.75, "melting_point": 933.437, "boiling_point": 2792, "color": "0xffffff" },
+    { "display_name": "Gallium", "id": "gallium", "atomic_symbol": "Ga", "mass_number": 69.723, "atomic_number": 31, "charge": -3, "density": 5.91, "strength": 1.5, "melting_point": 302.91, "boiling_point": 2477, "color": "0x8099fc" },
+    { "display_name": "Indium", "id": "indium", "atomic_symbol": "In", "mass_number": 114.818, "atomic_number": 49, "charge": -3, "density": 7.31, "strength": 1.2, "melting_point": 429.75, "boiling_point": 2345, "color": "0x8099fc" },
+    { "display_name": "Thallium", "id": "thallium", "atomic_symbol": "Tl", "mass_number": 204.383, "atomic_number": 81, "charge": -3, "density": 11.8, "strength": 1.2, "melting_point": 577, "boiling_point": 1746, "color": "0x8099fc" },
+    { "display_name": "Tin", "id": "tin", "atomic_symbol": "Sn", "mass_number": 118.71, "atomic_number": 50, "charge": 4, "density": 7.287, "strength": 1.5, "melting_point": 505.08, "boiling_point": 2875, "color": "0xfcedb0" },
+    { "display_name": "Lead", "id": "lead", "atomic_symbol": "Pd", "mass_number": 207, "atomic_number": 82, "charge": 4, "density": 11.342, "strength": 1.5, "melting_point": 600.61, "boiling_point": 2022, "color": "0x1f0244" },
+    { "display_name": "Bismuth", "id": "bismuth", "atomic_symbol": "Bi", "mass_number": 208.9804, "atomic_number": 83, "charge": -5, "density": 9.807, "strength": 2.25, "melting_point": 544.55, "boiling_point": 1837, "color": "0xffffff" }
   ]
 }

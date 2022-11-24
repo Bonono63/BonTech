@@ -1,11 +1,11 @@
 {
   "types": [ "liquid" ],
   "materials": [
-    { "display_name": "Fluorine", "id": "fluorine", "atomic_symbol": "F", "mass_number": 18, "atomic_number": 9, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Chlorine", "id": "chlorine", "atomic_symbol": "Cl", "mass_number": 35, "atomic_number": 17, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Bromine", "id": "bromine", "atomic_symbol": "Br", "mass_number": 79, "atomic_number": 35, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Iodine", "id": "iodine", "atomic_symbol": "I", "mass_number": 126, "atomic_number": 53, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Astatine", "id": "astatine", "atomic_symbol": "At", "mass_number": 209.98715, "atomic_number": 85, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Tennessine", "id": "tennessine", "atomic_symbol": "Ts", "mass_number": 294.211, "atomic_number": 117, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" }
+    { "display_name": "Fluorine", "id": "fluorine", "atomic_symbol": "F", "mass_number": 18.998, "atomic_number": 9, "charge": -7, "density": 0.002, "strength": -1, "melting_point": 53.53, "boiling_point": 85.03, "color": "0xf8d1fc" },
+    { "display_name": "Chlorine", "id": "chlorine", "atomic_symbol": "Cl", "mass_number": 35.450, "atomic_number": 17, "charge": -7, "density": 0.003, "strength": -1, "melting_point": 171.65, "boiling_point": 239.11, "color": "0xf8d1fc" },
+    { "display_name": "Bromine", "id": "bromine", "atomic_symbol": "Br", "mass_number": 79.900, "atomic_number": 35, "charge": -7, "density": 3.110, "strength": -1, "melting_point": 265.95, "boiling_point": 331.95, "color": "0xf8d1fc" },
+    { "display_name": "Iodine", "id": "iodine", "atomic_symbol": "I", "mass_number": 126.905, "atomic_number": 53, "charge": -7, "density": 4.930, "strength": -1, "melting_point": 386.85, "boiling_point": 457.55, "color": "0xf8d1fc" },
+    { "display_name": "Astatine", "id": "astatine", "atomic_symbol": "At", "mass_number": 209.987, "atomic_number": 85, "charge": -7, "density": 7.000, "strength": -1, "melting_point": 575, "boiling_point": -1, "color": "0xf8d1fc" },
+    { "display_name": "Tennessine", "id": "tennessine", "atomic_symbol": "Ts", "mass_number": 294.211, "atomic_number": 117, "charge": -7, "density": -1, "strength": -1, "melting_point": -1, "boiling_point": -1, "color": "0xf8d1fc" }
   ]
 }

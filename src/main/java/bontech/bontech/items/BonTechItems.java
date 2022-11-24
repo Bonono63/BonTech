@@ -1,7 +1,7 @@
 package bontech.bontech.items;
 
 import bontech.bontech.config.Config;
-import bontech.bontech.config.MaterialGroup;
+import bontech.bontech.materials.MaterialGroup;
 import bontech.bontech.items.groups.BonTechItemGroups;
 import bontech.bontech.materials.Material;
 import net.minecraft.item.Item;

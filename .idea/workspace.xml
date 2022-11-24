@@ -5,255 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ed8d3ab-fb18-46fd-94b7-247a7ed28460" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/run/config/bontech/alkali_metals.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/config/bontech/alkaline_earth_metals.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/config/bontech/halogen.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/config/bontech/metalloids.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/config/bontech/noble_gasses.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/config/bontech/nonmetals.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/config/bontech/post_transition_metals.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/config/bontech/transition_metals.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/.cache/cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/aluminum_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/aluminum_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/aluminum_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/aluminum_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/beryllium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/beryllium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/beryllium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/beryllium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bismuth_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bismuth_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bismuth_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bismuth_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/calcium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/calcium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/calcium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/calcium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chromium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chromium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chromium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chromium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/cobalt_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/cobalt_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/cobalt_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/cobalt_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/copper_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/copper_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/copper_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/copper_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gallium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gallium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gallium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gallium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gold_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gold_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gold_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gold_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iridium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iridium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iridium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iridium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iron_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iron_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iron_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iron_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lead_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lead_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lead_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lead_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lithium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lithium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lithium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lithium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/magnesium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/magnesium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/magnesium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/magnesium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/manganese_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/manganese_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/manganese_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/manganese_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/mercury_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/mercury_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/mercury_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/mercury_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neodymium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neodymium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neodymium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neodymium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nickel_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nickel_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nickel_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nickel_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/osmium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/osmium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/osmium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/osmium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/platinum_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/platinum_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/platinum_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/platinum_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/plutonium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/plutonium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/plutonium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/plutonium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/potassium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/potassium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/potassium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/potassium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/silver_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/silver_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/silver_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/silver_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sodium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sodium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sodium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sodium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/strontium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/strontium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/strontium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/strontium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/thorium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/thorium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/thorium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/thorium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tin_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tin_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tin_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tin_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/titanium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/titanium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/titanium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/titanium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tungsten_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tungsten_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tungsten_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tungsten_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/uranium_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/uranium_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/uranium_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/uranium_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_gas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_liquid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_plasma.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_solid.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_supercritical.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/zinc_bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/zinc_gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/zinc_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/zinc_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/entities/ImplementedInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/thermal/ThermalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/config/BonTechConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/config/MaterialGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/datagen/DataGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/datagen/ItemModelProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/helpers/BloomData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/helpers/HexPaddingRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/items/BTChemicalCompound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/server/BonTechServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/blockstates/bloomery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/blockstates/machine_frame.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/lang/en_us.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/models/block/machine_frame.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/models/block/machine_frame_new.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/models/item/bloom.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/models/item/gear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/models/item/ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/models/item/machine_frame.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/models/item/nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/textures/block/iron_plate_block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/textures/item/bloom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/textures/item/gear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/textures/item/liquid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/textures/item/nugget.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/bontech/Lanthanides.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/bontech/actinides.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3/checksums/sha1-checksums.bin" afterDir="false" />
@@ -263,256 +16,228 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/loom-cache/launch.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/loom-cache/launch.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/loom-cache/remapClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/loom-cache/remapClasspath.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/BonTech.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/BonTech.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/BonTechBlocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/BonTechBlocks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/MachineFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/MachineFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/entities/BloomBlockEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/entities/BloomBlockEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/entities/BonTechBlockEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/entities/BonTechBlockEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/refineries/Bloom.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/blocks/refineries/Bloom.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/client/BonTechClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/client/BonTechClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/helpers/IntToUnicodeScripts.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/helpers/IntToUnicodeScripts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/items/BTIngot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/config/BonTechConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/config/BonTechConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/config/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/config/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/config/MaterialGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/datagen/ItemModelProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/datagen/ItemModelProvider.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/items/BonTechItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/items/BonTechItems.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/materials/Material.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bontech/bontech/materials/Material.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/blockstates/machine_frame.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/lang/en_us.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/models/blocks/machine_frame.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/models/item/machine_frame.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/textures/items/Sprite_Sheet.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/textures/items/gear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/textures/items/gromp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/textures/items/refined_ingot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bontech/assets/textures/items/refined_liquid_element.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/config/bontech/metals.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/config/bontech/nonmetals.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/config/fabric/indigo-renderer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/datagen/logs/rei.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/datagen/logs/rei.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/bontech/alkali_metals.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/bontech/alkali_metals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/bontech/alkaline_earth_metals.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/bontech/alkaline_earth_metals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/bontech/halogen.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/bontech/halogen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/bontech/metalloids.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/bontech/metalloids.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/bontech/noble_gasses.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/bontech/noble_gasses.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/bontech/nonmetals.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/bontech/nonmetals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/bontech/post_transition_metals.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/bontech/post_transition_metals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/bontech/transition_metals.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/bontech/transition_metals.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-07_18.38.55-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-07_18.39.36-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-07_18.52.53-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-07_18.53.46-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-07_21.38.59-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-07_21.41.12-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-07_21.42.30-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-08_19.10.33-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-08_19.11.02-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-08_19.11.52-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-08_21.07.38-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-09_15.59.48-server.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-09_15.59.50-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-10_18.14.25-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-10_18.50.45-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-10_18.52.16-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/crash-reports/crash-2022-10-10_18.52.54-client.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-10-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-10-2.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-10-3.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-10-4.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-10-5.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-10-6.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-10-7.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/roughlyenoughitems/config.json5" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/roughlyenoughitems/config.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-01-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-07-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-07-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-07-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-07-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-07-5.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-07-6.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-08-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-08-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-08-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-08-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-08-5.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-08-6.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-09-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-09-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-09-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-10-09-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/DIM-1/data/raids.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/DIM1/data/raids_end.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/02006724-8599-3350-ba13-0c0625a51a5e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/062aacfa-27f8-3a16-95b1-e980c0c72c9e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/0704e0ba-eaf6-3b26-b880-53fd45ec3b48.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/0dba4657-9c98-3a17-999f-e412cc5ea8b2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/0fbf5581-7411-3cef-a8b2-2d7919ecaf6e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/1f3c4999-135a-3409-82bf-957837de1473.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/216c785c-0df1-3594-b574-a2156a14723d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/2659329e-1c65-3850-9659-d27fc655aa3c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/31a9aee6-8c2b-389d-b14e-b75d71479611.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/355b2127-0f2e-3f20-b6c2-8997b4abcafb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/44915209-9814-3995-87c7-f4dc48b55294.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/5031b283-213a-3769-9d06-07f0ca40feb8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/600ef575-e50b-3323-b0f1-19e3a176b08b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/6794fdae-fe26-33f1-8f19-7eb3eb1ac435.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/681f539b-8bb8-3f85-85e5-a2945f6c6539.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/99c5cfd7-706e-3304-b77d-748a9e6aeb44.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/9c66b502-7304-3207-92e6-8d6afcf30d77.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/9e5d41e7-4785-3b2f-8261-593dade57f6e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/a40967fe-53e3-3428-b2d4-e5dfaa3ad087.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/ab00b123-8131-3d14-9be8-b41089c89fbc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/b0da1a12-66d3-34d6-99f0-6da43866ed58.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/d0f5fb0c-30f8-3708-84d1-e619aef4d8f4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/d1b650bf-5f9c-37d3-a469-4d66d1968f90.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/d6d392a6-44f8-3510-88ef-1f2f06277d32.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/advancements/f109a640-cd93-3f49-a1e7-75407085bbf0.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/data/raids.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/entities/r.-1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/entities/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.-1.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.-1.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.-2.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.-2.2.mca" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/entities/r.0.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/entities/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.0.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.0.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.1.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.1.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.1.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.2.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.2.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.2.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.3.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.3.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/entities/r.3.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/02006724-8599-3350-ba13-0c0625a51a5e.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/02006724-8599-3350-ba13-0c0625a51a5e.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/062aacfa-27f8-3a16-95b1-e980c0c72c9e.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/0704e0ba-eaf6-3b26-b880-53fd45ec3b48.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/0704e0ba-eaf6-3b26-b880-53fd45ec3b48.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/0dba4657-9c98-3a17-999f-e412cc5ea8b2.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/0dba4657-9c98-3a17-999f-e412cc5ea8b2.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/0fbf5581-7411-3cef-a8b2-2d7919ecaf6e.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/1f3c4999-135a-3409-82bf-957837de1473.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/1f3c4999-135a-3409-82bf-957837de1473.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/216c785c-0df1-3594-b574-a2156a14723d.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/2659329e-1c65-3850-9659-d27fc655aa3c.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/2659329e-1c65-3850-9659-d27fc655aa3c.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/31a9aee6-8c2b-389d-b14e-b75d71479611.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/31a9aee6-8c2b-389d-b14e-b75d71479611.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/355b2127-0f2e-3f20-b6c2-8997b4abcafb.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/44915209-9814-3995-87c7-f4dc48b55294.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/44915209-9814-3995-87c7-f4dc48b55294.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/5031b283-213a-3769-9d06-07f0ca40feb8.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/5031b283-213a-3769-9d06-07f0ca40feb8.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/600ef575-e50b-3323-b0f1-19e3a176b08b.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/600ef575-e50b-3323-b0f1-19e3a176b08b.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/6794fdae-fe26-33f1-8f19-7eb3eb1ac435.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/6794fdae-fe26-33f1-8f19-7eb3eb1ac435.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/681f539b-8bb8-3f85-85e5-a2945f6c6539.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/681f539b-8bb8-3f85-85e5-a2945f6c6539.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/99c5cfd7-706e-3304-b77d-748a9e6aeb44.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/99c5cfd7-706e-3304-b77d-748a9e6aeb44.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/9c66b502-7304-3207-92e6-8d6afcf30d77.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/9e5d41e7-4785-3b2f-8261-593dade57f6e.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/a40967fe-53e3-3428-b2d4-e5dfaa3ad087.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/a40967fe-53e3-3428-b2d4-e5dfaa3ad087.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/ab00b123-8131-3d14-9be8-b41089c89fbc.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/ab00b123-8131-3d14-9be8-b41089c89fbc.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/b0da1a12-66d3-34d6-99f0-6da43866ed58.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/b0da1a12-66d3-34d6-99f0-6da43866ed58.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/d0f5fb0c-30f8-3708-84d1-e619aef4d8f4.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/d1b650bf-5f9c-37d3-a469-4d66d1968f90.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/d1b650bf-5f9c-37d3-a469-4d66d1968f90.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/d6d392a6-44f8-3510-88ef-1f2f06277d32.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/d6d392a6-44f8-3510-88ef-1f2f06277d32.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/playerdata/f109a640-cd93-3f49-a1e7-75407085bbf0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/poi/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.-1.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.-1.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.-2.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.-2.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.-2.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/poi/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.0.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.0.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.1.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.1.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.1.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.2.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.2.-2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.2.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.2.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.2.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.3.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.3.-2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.3.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/poi/r.3.1.mca" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/region/r.-1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.-1.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.-1.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.-2.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.-2.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.-2.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.-2.2.mca" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/region/r.0.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.0.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.0.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.1.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.1.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.1.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.2.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.2.-2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.2.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.2.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.2.2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.3.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.3.-2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.3.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.3.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/region/r.3.2.mca" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/02006724-8599-3350-ba13-0c0625a51a5e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/062aacfa-27f8-3a16-95b1-e980c0c72c9e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/0704e0ba-eaf6-3b26-b880-53fd45ec3b48.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/0dba4657-9c98-3a17-999f-e412cc5ea8b2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/0fbf5581-7411-3cef-a8b2-2d7919ecaf6e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/1f3c4999-135a-3409-82bf-957837de1473.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/216c785c-0df1-3594-b574-a2156a14723d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/2659329e-1c65-3850-9659-d27fc655aa3c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/31a9aee6-8c2b-389d-b14e-b75d71479611.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/355b2127-0f2e-3f20-b6c2-8997b4abcafb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/44915209-9814-3995-87c7-f4dc48b55294.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/5031b283-213a-3769-9d06-07f0ca40feb8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/600ef575-e50b-3323-b0f1-19e3a176b08b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/6794fdae-fe26-33f1-8f19-7eb3eb1ac435.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/681f539b-8bb8-3f85-85e5-a2945f6c6539.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/99c5cfd7-706e-3304-b77d-748a9e6aeb44.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/9c66b502-7304-3207-92e6-8d6afcf30d77.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/9e5d41e7-4785-3b2f-8261-593dade57f6e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/a40967fe-53e3-3428-b2d4-e5dfaa3ad087.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/ab00b123-8131-3d14-9be8-b41089c89fbc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/b0da1a12-66d3-34d6-99f0-6da43866ed58.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/d0f5fb0c-30f8-3708-84d1-e619aef4d8f4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/d1b650bf-5f9c-37d3-a469-4d66d1968f90.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/d6d392a6-44f8-3510-88ef-1f2f06277d32.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test/stats/f109a640-cd93-3f49-a1e7-75407085bbf0.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/BonTech.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/BonTech.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/BonTechBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/BonTechBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/MachineFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/MachineFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/entities/BloomBlockEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/entities/BloomBlockEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/entities/BonTechBlockEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/entities/BonTechBlockEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/refineries/Bloom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/blocks/refineries/Bloom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/.cache/cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/generated/.cache/cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/aluminum_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/aluminum_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/aluminum_ingot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/aluminum_nugget.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/argon_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_gas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/astatine_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/beryllium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/beryllium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bismuth_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bismuth_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bismuth_ingot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bismuth_nugget.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_gas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/bromine_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/calcium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/calcium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/carbon_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_gas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chlorine_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chromium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/chromium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/cobalt_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/cobalt_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/copper_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/copper_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_gas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/fluorine_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gallium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gallium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gallium_ingot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gallium_nugget.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gold_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/gold_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/helium_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/hydrogen_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_gas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iodine_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iridium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iridium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iron_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/iron_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/krypton_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lead_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lead_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lead_ingot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lead_nugget.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lithium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/lithium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/magnesium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/magnesium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/manganese_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/manganese_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/mercury_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/mercury_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neodymium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neodymium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neodymium_nugget.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/neon_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nickel_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nickel_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/nitrogen_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/osmium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/osmium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/oxygen_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/phosphorus_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/platinum_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/platinum_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/plutonium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/plutonium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/potassium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/potassium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/radon_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/selenium_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/silver_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/silver_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sodium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sodium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/strontium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/strontium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/sulfur_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/thorium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/thorium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tin_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tin_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tin_ingot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tin_nugget.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/titanium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/titanium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tungsten_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/tungsten_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/uranium_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/uranium_gear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_liquid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_plasma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_solid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/xenon_supercritical.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/zinc_bloom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/assets/bontech/models/item/zinc_gear.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/client/BonTechClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/client/BonTechClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/helpers/IntToUnicodeScripts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/helpers/IntToUnicodeScripts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/items/BTIngot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/items/BTChemicalElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/config/BonTechConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/config/BonTechConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/config/MaterialGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/materials/MaterialGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/datagen/ItemModelProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/datagen/ItemModelProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/items/BonTechItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/items/BonTechItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bontech/bontech/materials/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bontech/bontech/materials/Material.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/blockstates/machine_frame.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/lang/en_us.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/models/blocks/machine_frame.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/models/item/machine_frame.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/textures/items/Sprite_Sheet.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/textures/item/Sprite_Sheet.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/textures/items/gear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/textures/items/gromp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/textures/items/refined_ingot.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/bontech/textures/item/ingot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bontech/assets/textures/items/refined_liquid_element.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

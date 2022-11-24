@@ -3,6 +3,7 @@ package bontech.bontech.config;
 import bontech.bontech.BonTech;
 import bontech.bontech.helpers.HexPaddingRemover;
 import bontech.bontech.materials.Material;
+import bontech.bontech.materials.MaterialGroup;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
@@ -26,6 +27,10 @@ public class BonTechConfiguration {
         //A check for an initial configuration file needs to be made, if one isn't present it needs to be generated somehow or a file needs to be downloaded from somewhere
     }
 
+    /*
+    * Used to read the configuration in the main entrypoint, server side and client side.
+    * This is and index of every single Material and Material group
+    * */
     public static Config read() {
         //get the configuration directory and it's contents
         File directory = CONFIG_PATH.resolve(MOD_FOLDER).toFile();
@@ -84,7 +89,9 @@ public class BonTechConfiguration {
                     int color = Integer.parseInt(_color, 16);
 
                     //format the data into a Material and add it to the list
-                    materials.add(new Material(display_name, id, atomic_symbol, mass_number, atomic_number, charge, density, strength, melting_point, boiling_point, color));
+                    Material out = new Material(display_name, id, atomic_symbol, mass_number, atomic_number, charge, density, strength, melting_point, boiling_point, color);
+                    BonTech.LOGGER.info(out.toString());
+                    materials.add(out);
                 }
             }
             catch (FileNotFoundException ignored){

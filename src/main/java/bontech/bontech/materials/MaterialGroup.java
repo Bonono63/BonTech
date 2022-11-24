@@ -1,4 +1,4 @@
-package bontech.bontech.config;
+package bontech.bontech.materials;
 
 import bontech.bontech.materials.Material;
 

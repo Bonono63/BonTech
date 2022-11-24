@@ -1,13 +1,13 @@
 {
-  "types": [ "" ],
+  "types": [ "gas" ],
   "materials": [
-    { "display_name": "Hydrogen", "id": "hydrogen", "atomic_symbol": "H", "mass_number": 2, "atomic_number": 1, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Boron", "id": "boron", "atomic_symbol": "B", "mass_number": 10.81, "atomic_number": 5, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Silicon", "id": "silicon", "atomic_symbol": "Si", "mass_number": 20.85, "atomic_number": 14, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Germanium", "id": "germanium", "atomic_symbol": "Ge", "mass_number": 72.63, "atomic_number": 32, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Arsenic", "id": "arsenic", "atomic_symbol": "As", "mass_number": 74.92159, "atomic_number": 33, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Antimony", "id": "antimony", "atomic_symbol": "Sb", "mass_number": 121.760, "atomic_number": 51, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Tellurium", "id": "tellurium", "atomic_symbol": "Te", "mass_number": 127.6, "atomic_number": 52, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" },
-    { "display_name": "Polonium", "id": "polonium", "atomic_symbol": "Po", "mass_number": 208.98243, "atomic_number": 84, "charge": 0, "density": 0.0899, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xf8d1fc" }
+    { "display_name": "Hydrogen", "id": "hydrogen", "atomic_symbol": "H", "mass_number": 2, "atomic_number": 1, "charge": -1, "density": 0.00008988, "strength": -1, "melting_point": 13.81, "boiling_point": 20.28, "color": "0xf8d1fc" },
+    { "display_name": "Boron", "id": "boron", "atomic_symbol": "B", "mass_number": 10.81, "atomic_number": 5, "charge": -3, "density": 2.370, "strength": 9.5, "melting_point": 2348, "boiling_point": 4273, "color": "0xf8d1fc" },
+    { "display_name": "Silicon", "id": "silicon", "atomic_symbol": "Si", "mass_number": 28.085, "atomic_number": 14, "charge": 4, "density": 2.3296, "strength": 6.5, "melting_point": 1687, "boiling_point": 3538, "color": "0xf8d1fc" },
+    { "display_name": "Germanium", "id": "germanium", "atomic_symbol": "Ge", "mass_number": 72.63, "atomic_number": 32, "charge": 4, "density": 5.323, "strength": 6.0, "melting_point": 1211, "boiling_point": 3106, "color": "0xf8d1fc" },
+    { "display_name": "Arsenic", "id": "arsenic", "atomic_symbol": "As", "mass_number": 74.92159, "atomic_number": 33, "charge": -5, "density": 5.776, "strength": 3.0, "melting_point": 1090, "boiling_point": 887, "color": "0xf8d1fc" },
+    { "display_name": "Antimony", "id": "antimony", "atomic_symbol": "Sb", "mass_number": 121.760, "atomic_number": 51, "charge": -5, "density": 6.685, "strength": 3.0, "melting_point": 903.78, "boiling_point": 1860, "color": "0xf8d1fc" },
+    { "display_name": "Tellurium", "id": "tellurium", "atomic_symbol": "Te", "mass_number": 127.6, "atomic_number": 52, "charge": -6, "density": 6.232, "strength": 2.25, "melting_point": 722.66, "boiling_point": 1261, "color": "0xf8d1fc" },
+    { "display_name": "Polonium", "id": "polonium", "atomic_symbol": "Po", "mass_number": 208.98243, "atomic_number": 84, "charge": -6, "density": 9.23, "strength": -1, "melting_point": 527, "boiling_point": 1235, "color": "0xf8d1fc" }
   ]
 }
