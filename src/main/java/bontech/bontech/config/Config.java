@@ -1,18 +1,19 @@
 package bontech.bontech.config;
 
+import bontech.bontech.materials.Material;
 import bontech.bontech.materials.MaterialGroup;
 
 import java.util.List;
 
 public class Config {
 
-    List<MaterialGroup> materialGroups;
+    List<Material> materialGroups;
 
-    public Config(List<MaterialGroup> materialGroups) {
+    public Config(List<Material> materialGroups) {
         this.materialGroups = materialGroups;
     }
 
-    public List<MaterialGroup> getMaterialGroups() {
+    public List<Material> getMaterials() {
         return materialGroups;
     }
 }

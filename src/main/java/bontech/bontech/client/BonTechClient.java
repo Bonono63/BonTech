@@ -3,7 +3,6 @@ package bontech.bontech.client;
 import bontech.bontech.BonTech;
 import bontech.bontech.blocks.BonTechBlocks;
 import bontech.bontech.config.Config;
-import bontech.bontech.materials.MaterialGroup;
 import bontech.bontech.materials.Material;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;
@@ -22,12 +21,8 @@ public class BonTechClient implements ClientModInitializer {
 
         BonTech.LOGGER.info("Registering Color Providers");
         Config config = BonTech.CONFIG;
-        for (MaterialGroup group : config.getMaterialGroups() ) {
-            for (String type : group.getTypes()) {
-                for ( Material material : group.getMaterials()) {
-                    ColorProviderRegistry.ITEM.register((stack, tintIndex) -> material.color, Registry.ITEM.get(new Identifier(BonTech.MOD_ID, material.id+"_"+type)));
-                }
-            }
+        for ( Material material : config.getMaterials()) {
+            ColorProviderRegistry.ITEM.register((stack, tintIndex) -> material.color, Registry.ITEM.get(new Identifier(BonTech.MOD_ID, material.id)));
         }
 
         BlockRenderLayerMap.INSTANCE.putBlock(BonTechBlocks.MACHINE_FRAME, RenderLayer.getCutout());

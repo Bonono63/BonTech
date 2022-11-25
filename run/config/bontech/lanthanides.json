@@ -1,0 +1,5 @@
+{
+  "materials": [
+    { "display_name": "Neodymium", "id": "neodymium", "atomic_symbol": "Nd", "mass_number": 144, "atomic_number": 60, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xffffff", "prefixes": [ "ingot", "nugget" ] }
+  ]
+}

@@ -1,11 +1,10 @@
 {
-  "types": [ "ingot", "nugget" ],
   "materials": [
-    { "display_name": "Lithium", "id": "lithium", "atomic_symbol": "Li", "mass_number": 7, "atomic_number": 3, "charge": -1, "density": 0.534, "strength": 0.6, "melting_point": 543.65, "boiling_point": 1603.0, "color": "0xf8d1fc" },
-    { "display_name": "Sodium", "id": "sodium", "atomic_symbol": "Na", "mass_number": 22.990, "atomic_number": 11, "charge": -1, "density": 0.970, "strength": 0.5, "melting_point": 370.95, "boiling_point": 1156, "color": "0xe0d59f" },
-    { "display_name": "Potassium", "id": "potassium", "atomic_symbol": "K", "mass_number": 39.098, "atomic_number": 19, "charge": -1, "density": 0.890, "strength": 0.4, "melting_point": 336.53, "boiling_point": 1032, "color": "0xbdcffc" },
-    { "display_name": "Rubidium", "id": "rubidium", "atomic_symbol": "Rb", "mass_number": 85.468, "atomic_number": 37, "charge": -1, "density": 1.53, "strength": 0.3, "melting_point": 312.46, "boiling_point": 961, "color": "0xbdcffc" },
-    { "display_name": "Caesium", "id": "caesium", "atomic_symbol": "Cs", "mass_number": 132.905, "atomic_number": 55, "charge": -1, "density": 1.93, "strength": 0.2, "melting_point": 301.59, "boiling_point": 944, "color": "0xbdcffc" },
-    { "display_name": "Francium", "id": "francium", "atomic_symbol": "Fr", "mass_number": 223.020, "atomic_number": 87, "charge": -1, "density": -1, "strength": -1, "melting_point": 300, "boiling_point": -1, "color": "0xbdcffc" }
+    { "display_name": "Lithium", "id": "lithium", "atomic_symbol": "Li", "mass_number": 7, "atomic_number": 3, "charge": -1, "density": 0.534, "strength": 0.6, "melting_point": 543.65, "boiling_point": 1603.0, "color": "0xf8d1fc", "prefixes": [ "ingot", "nugget" ] },
+    { "display_name": "Sodium", "id": "sodium", "atomic_symbol": "Na", "mass_number": 22.990, "atomic_number": 11, "charge": -1, "density": 0.970, "strength": 0.5, "melting_point": 370.95, "boiling_point": 1156, "color": "0xe0d59f", "prefixes": [ "ingot", "nugget" ] },
+    { "display_name": "Potassium", "id": "potassium", "atomic_symbol": "K", "mass_number": 39.098, "atomic_number": 19, "charge": -1, "density": 0.890, "strength": 0.4, "melting_point": 336.53, "boiling_point": 1032, "color": "0xbdcffc", "prefixes": [ "ingot", "nugget" ] },
+    { "display_name": "Rubidium", "id": "rubidium", "atomic_symbol": "Rb", "mass_number": 85.468, "atomic_number": 37, "charge": -1, "density": 1.53, "strength": 0.3, "melting_point": 312.46, "boiling_point": 961, "color": "0xbdcffc", "prefixes": [ "ingot", "nugget" ] },
+    { "display_name": "Caesium", "id": "caesium", "atomic_symbol": "Cs", "mass_number": 132.905, "atomic_number": 55, "charge": -1, "density": 1.93, "strength": 0.2, "melting_point": 301.59, "boiling_point": 944, "color": "0xbdcffc", "prefixes": [ "ingot", "nugget" ] },
+    { "display_name": "Francium", "id": "francium", "atomic_symbol": "Fr", "mass_number": 223.020, "atomic_number": 87, "charge": -1, "density": -1, "strength": -1, "melting_point": 300, "boiling_point": -1, "color": "0xbdcffc", "prefixes": [ "ingot", "nugget" ] }
   ]
 }

@@ -2,3 +2,12 @@
 /.gradle/
 /.idea/
 /build/
+/gradle/
+*.lock
+/run/data/
+/run/saves/*
+*.iml
+*.ipr
+*.iws
+/.metadata
+/.settings

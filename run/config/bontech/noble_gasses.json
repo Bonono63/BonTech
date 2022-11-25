@@ -1,12 +1,11 @@
 {
-  "types": [ "gas" ],
   "materials": [
-    { "display_name": "Helium", "id": "helium", "atomic_symbol": "He", "mass_number": 4.00260, "atomic_number": 2, "charge": -2, "density": 0.0001785, "strength": -1, "melting_point": 0.95, "boiling_point": 4.22, "color": "0xf8d1fc" },
-    { "display_name": "Neon", "id": "neon", "atomic_symbol": "Ne", "mass_number": 20.180, "atomic_number": 10, "charge": -8, "density": 0.0008999, "strength": -1, "melting_point": 24.56, "boiling_point": 27.07, "color": "0xf8d1fc" },
-    { "display_name": "Argon", "id": "argon", "atomic_symbol": "Ar", "mass_number": 39.9, "atomic_number": 18, "charge": -8, "density": 0.0017837, "strength": -1, "melting_point": 83.8, "boiling_point": 87.3, "color": "0xf8d1fc" },
-    { "display_name": "Krypton", "id": "krypton", "atomic_symbol": "Kr", "mass_number": 83.80, "atomic_number": 36, "charge": -8, "density": 0.003733, "strength": -1, "melting_point": 115.79, "boiling_point": 119.93, "color": "0xf8d1fc" },
-    { "display_name": "Xenon", "id": "xenon", "atomic_symbol": "Xe", "mass_number": 131.29, "atomic_number": 54, "charge": -8, "density": 0.005887, "strength": -1, "melting_point": 161.36, "boiling_point": 165.03, "color": "0xf8d1fc" },
-    { "display_name": "Radon", "id": "radon", "atomic_symbol": "Rn", "mass_number": 222.01758, "atomic_number": 86, "charge": -8, "density": 0.00973, "strength": -1, "melting_point": 202, "boiling_point": 211.45, "color": "0xf8d1fc" },
-    { "display_name": "Oganesson", "id": "oganesson", "atomic_symbol": "Og", "mass_number": 295.216, "atomic_number": 118, "charge": -8, "density": -1, "strength": -1, "melting_point": -1, "boiling_point": -1, "color": "0xf8d1fc" }
+    { "display_name": "Helium", "id": "helium", "atomic_symbol": "He", "mass_number": 4.00260, "atomic_number": 2, "charge": -2, "density": 0.0001785, "strength": -1, "melting_point": 0.95, "boiling_point": 4.22, "color": "0xf8d1fc", "prefixes": [ "gas" ] },
+    { "display_name": "Neon", "id": "neon", "atomic_symbol": "Ne", "mass_number": 20.180, "atomic_number": 10, "charge": -8, "density": 0.0008999, "strength": -1, "melting_point": 24.56, "boiling_point": 27.07, "color": "0xf8d1fc", "prefixes": [ "gas" ] },
+    { "display_name": "Argon", "id": "argon", "atomic_symbol": "Ar", "mass_number": 39.9, "atomic_number": 18, "charge": -8, "density": 0.0017837, "strength": -1, "melting_point": 83.8, "boiling_point": 87.3, "color": "0xf8d1fc", "prefixes": [ "gas" ] },
+    { "display_name": "Krypton", "id": "krypton", "atomic_symbol": "Kr", "mass_number": 83.80, "atomic_number": 36, "charge": -8, "density": 0.003733, "strength": -1, "melting_point": 115.79, "boiling_point": 119.93, "color": "0xf8d1fc", "prefixes": [ "gas" ] },
+    { "display_name": "Xenon", "id": "xenon", "atomic_symbol": "Xe", "mass_number": 131.29, "atomic_number": 54, "charge": -8, "density": 0.005887, "strength": -1, "melting_point": 161.36, "boiling_point": 165.03, "color": "0xf8d1fc", "prefixes": [ "gas" ] },
+    { "display_name": "Radon", "id": "radon", "atomic_symbol": "Rn", "mass_number": 222.01758, "atomic_number": 86, "charge": -8, "density": 0.00973, "strength": -1, "melting_point": 202, "boiling_point": 211.45, "color": "0xf8d1fc", "prefixes": [ "gas" ] },
+    { "display_name": "Oganesson", "id": "oganesson", "atomic_symbol": "Og", "mass_number": 295.216, "atomic_number": 118, "charge": -8, "density": -1, "strength": -1, "melting_point": -1, "boiling_point": -1, "color": "0xf8d1fc", "prefixes": [ "gas" ] }
   ]
 }

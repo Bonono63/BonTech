@@ -1,8 +1,7 @@
 {
-  "types": [ "ingot", "nugget" ],
   "materials": [
-    { "display_name": "Thorium", "id": "thorium", "atomic_symbol": "Th", "mass_number": 232, "atomic_number": 90, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x2b2b2b" },
-    { "display_name": "Uranium", "id": "uranium", "atomic_symbol": "U", "mass_number": 238, "atomic_number": 92, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x10ba1c" },
-    { "display_name": "Plutonium", "id": "plutonium", "atomic_symbol": "Pu", "mass_number": 244, "atomic_number": 94, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xe51c02" }
+    { "display_name": "Thorium", "id": "thorium", "atomic_symbol": "Th", "mass_number": 232, "atomic_number": 90, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x2b2b2b", "prefixes": [ "ingot", "nugget" ] },
+    { "display_name": "Uranium", "id": "uranium", "atomic_symbol": "U", "mass_number": 238, "atomic_number": 92, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0x10ba1c", "prefixes": [ "ingot", "nugget" ] },
+    { "display_name": "Plutonium", "id": "plutonium", "atomic_symbol": "Pu", "mass_number": 244, "atomic_number": 94, "charge": 0, "density": 1.848, "strength": 0, "melting_point": 0, "boiling_point": 0, "color": "0xe51c02", "prefixes": [ "ingot", "nugget" ] }
   ]
 }

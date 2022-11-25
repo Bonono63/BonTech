@@ -36,7 +36,7 @@ public class BonTechConfiguration {
         File directory = CONFIG_PATH.resolve(MOD_FOLDER).toFile();
         String[] contents = directory.list();
 
-        List<MaterialGroup> temp = new ArrayList<>();
+        List<Material> materials = new ArrayList<>();
 
         assert contents != null;
         for (String name : contents) {
@@ -50,17 +50,9 @@ public class BonTechConfiguration {
             File file = CONFIG_PATH.resolve(MOD_FOLDER+name).toFile();
             //BonTech.LOGGER.info(file.getAbsolutePath());
 
-            List<Material> materials = new ArrayList<>();
-            List<String> types = new ArrayList<>();
             try {
                 JsonElement fileElement = JsonParser.parseReader(new FileReader(file));
                 JsonObject fileObject = fileElement.getAsJsonObject();
-
-                JsonArray typeArray = fileObject.get("types").getAsJsonArray();
-                for ( JsonElement element : typeArray ) {
-                    String type = element.getAsString();
-                    types.add(type);
-                }
 
                 JsonArray materialArray = fileObject.get("materials").getAsJsonArray();
                 //Iterates through every entry in the materials file
@@ -79,6 +71,7 @@ public class BonTechConfiguration {
                     float strength = materialElementObject.get("strength").getAsFloat();
                     float melting_point = materialElementObject.get("melting_point").getAsFloat();
                     float boiling_point = materialElementObject.get("boiling_point").getAsFloat();
+
                     String _color = materialElementObject.get("color").getAsString();
 
                     //BonTech.LOGGER.info(_color);
@@ -88,19 +81,28 @@ public class BonTechConfiguration {
                     //All color values need to be 16 bit (hexadecimal) values to be accepted
                     int color = Integer.parseInt(_color, 16);
 
-                    //format the data into a Material and add it to the list
-                    Material out = new Material(display_name, id, atomic_symbol, mass_number, atomic_number, charge, density, strength, melting_point, boiling_point, color);
-                    BonTech.LOGGER.info(out.toString());
-                    materials.add(out);
+                    JsonArray prefixes = materialElementObject.get("prefixes").getAsJsonArray();
+
+                    for ( JsonElement prefix : prefixes ) {
+
+                        StringBuilder current = new StringBuilder(prefix.getAsString());
+
+                        if (!current.isEmpty() && current.charAt(0) != '_') {
+                            current.insert(0,"_");
+                        }
+
+                        Material out = new Material(display_name, id+current, atomic_symbol, mass_number, atomic_number, charge, density, strength, melting_point, boiling_point, color);
+                        BonTech.LOGGER.info(out.toString());
+
+                        materials.add(out);
+                    }
                 }
             }
             catch (FileNotFoundException ignored){
                 BonTech.LOGGER.info("Configuration file not found.");
             }
-
-            temp.add(new MaterialGroup(materials, types));
         }
-        return new Config(temp);
+        return new Config(materials);
     }
 
     public static List<String> getIngored() {

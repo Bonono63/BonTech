@@ -37,14 +37,8 @@ public class BonTechItems {
 
     public static void typeRegister(Config config)
     {
-        List<MaterialGroup> groups = config.getMaterialGroups();
-        for ( MaterialGroup group : groups) {
-            for (String type : group.getTypes()) {
-                for (Material material : group.getMaterials())
-                {
-                    register(material.id+"_"+type, new BTChemicalElement(materials(), material));
-                }
-            }
+        for (Material material : config.getMaterials()) {
+            register(material.id, new BTChemicalElement(materials(), material));
         }
     }
 
