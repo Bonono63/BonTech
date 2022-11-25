@@ -1,11 +1,9 @@
-/run/saves/
-/.gradle/
-/.idea/
-/build/
-/gradle/
+/run/*
+/.gradl
+/.idea
+/build
+/gradle
 *.lock
-/run/data/
-/run/saves/*
 *.iml
 *.ipr
 *.iws
