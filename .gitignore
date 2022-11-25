@@ -9,4 +9,4 @@
 *.iws
 /.metadata
 /.settings
-/src/generated
+/src/main/generated
