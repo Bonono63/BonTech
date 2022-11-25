@@ -1,5 +1,5 @@
 /run/*
-/.gradl
+/.gradle
 /.idea
 /build
 /gradle
@@ -9,3 +9,4 @@
 *.iws
 /.metadata
 /.settings
+/src/generated
