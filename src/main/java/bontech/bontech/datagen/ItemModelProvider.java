@@ -28,8 +28,8 @@ public class ItemModelProvider extends FabricModelProvider {
         Config config = BonTech.CONFIG;
 
         for ( Material material : config.getMaterials() ) {
-            BonTech.LOGGER.info(material.toString());
-                    itemModelGenerator.register(Registry.ITEM.get(new Identifier(BonTech.MOD_ID, material.id)), Registry.ITEM.get(new Identifier(BonTech.MOD_ID, material.id)).asItem(), Models.GENERATED);
+            BonTech.LOGGER.info(material.id);
+            itemModelGenerator.register(Registry.ITEM.get(new Identifier(BonTech.MOD_ID, material.id)), Registry.ITEM.get(new Identifier(BonTech.MOD_ID, material.suffix)).asItem(), Models.GENERATED);
         }
     }
 }

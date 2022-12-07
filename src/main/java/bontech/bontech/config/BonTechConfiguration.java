@@ -3,7 +3,6 @@ package bontech.bontech.config;
 import bontech.bontech.BonTech;
 import bontech.bontech.helpers.HexPaddingRemover;
 import bontech.bontech.materials.Material;
-import bontech.bontech.materials.MaterialGroup;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
@@ -81,17 +80,19 @@ public class BonTechConfiguration {
                     //All color values need to be 16 bit (hexadecimal) values to be accepted
                     int color = Integer.parseInt(_color, 16);
 
-                    JsonArray prefixes = materialElementObject.get("prefixes").getAsJsonArray();
+                    JsonArray suffixes = materialElementObject.get("suffixes").getAsJsonArray();
 
-                    for ( JsonElement prefix : prefixes ) {
+                    for ( JsonElement suffix : suffixes ) {
 
-                        StringBuilder current = new StringBuilder(prefix.getAsString());
+                        StringBuilder current = new StringBuilder(suffix.getAsString());
+                        String currentWithoutUnderscore = suffix.getAsString();
 
+                        // Inserts an underscore if the current suffix isn't empty
                         if (!current.isEmpty() && current.charAt(0) != '_') {
                             current.insert(0,"_");
                         }
 
-                        Material out = new Material(display_name, id+current, atomic_symbol, mass_number, atomic_number, charge, density, strength, melting_point, boiling_point, color);
+                        Material out = new Material(display_name, id+current, atomic_symbol, mass_number, atomic_number, charge, density, strength, melting_point, boiling_point, color, currentWithoutUnderscore);
                         BonTech.LOGGER.info(out.toString());
 
                         materials.add(out);

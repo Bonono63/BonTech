@@ -1,7 +1,6 @@
 package bontech.bontech.config;
 
 import bontech.bontech.materials.Material;
-import bontech.bontech.materials.MaterialGroup;
 
 import java.util.List;
 

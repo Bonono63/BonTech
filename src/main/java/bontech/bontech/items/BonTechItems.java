@@ -1,7 +1,6 @@
 package bontech.bontech.items;
 
 import bontech.bontech.config.Config;
-import bontech.bontech.materials.MaterialGroup;
 import bontech.bontech.items.groups.BonTechItemGroups;
 import bontech.bontech.materials.Material;
 import net.minecraft.item.Item;
@@ -29,17 +28,6 @@ public class BonTechItems {
     public BonTechItems(){}
 
     public static void init(){
-        BonTech.LOGGER.info("Registering Items");
-        Config config = BonTech.CONFIG;
-
-        typeRegister(config);
-    }
-
-    public static void typeRegister(Config config)
-    {
-        for (Material material : config.getMaterials()) {
-            register(material.id, new BTChemicalElement(materials(), material));
-        }
     }
 
     public static Item.Settings materials() {

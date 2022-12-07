@@ -6,6 +6,7 @@ import bontech.bontech.config.BonTechConfiguration;
 import bontech.bontech.config.Config;
 import bontech.bontech.items.BonTechItems;
 import bontech.bontech.items.groups.BonTechItemGroups;
+import bontech.bontech.materials.MaterialRegistration;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
@@ -22,6 +23,8 @@ public class BonTech implements ModInitializer {
     @Override
     public void onInitialize() {
         BonTechConfiguration.init();
+
+        MaterialRegistration.init();
 
         BonTechItems.init();
         BonTechBlocks.init();

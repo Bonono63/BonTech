@@ -15,8 +15,9 @@ public class Material {
     public float boiling_point;
     //hexadecimal color provider
     public int color;
+    public String suffix;
 
-    public Material(String displayName, String id, String atomic_symbol, float mass_number, int atomic_number, int charge, float density, float strength, float melting_point, float boiling_point, int color){
+    public Material(String displayName, String id, String atomic_symbol, float mass_number, int atomic_number, int charge, float density, float strength, float melting_point, float boiling_point, int color, String suffix){
         this.DisplayName = displayName;
         this.id = id;
         this.atomic_symbol = atomic_symbol;
@@ -28,12 +29,13 @@ public class Material {
         this.melting_point = melting_point;
         this.boiling_point = boiling_point;
         this.color = color;
+        this.suffix = suffix;
     }
 
-    public static Material EMPTY = new Material("empty", "empty", "empty", 0,0,0,0,0,0,0,0);
+    public static Material EMPTY = new Material("empty", "empty", "empty", 0,0,0,0,0,0,0,0, null);
 
     @Override
     public String toString() {
-        return "Display: " + DisplayName + " id: " + id + " Symbol: " + atomic_symbol + " Mass: " + mass_number + " Number: "+ atomic_number + " Charge: " + charge + " Density: " + density + " g/cm^3 Moh: " + strength + " Melting: " + melting_point + " Boiling: " + boiling_point + " Color: " + color;
+        return "Display: " + DisplayName + " id: " + id + " Symbol: " + atomic_symbol + " Mass: " + mass_number + " Number: "+ atomic_number + " Charge: " + charge + " Density: " + density + " g/cm^3 Moh: " + strength + " Melting: " + melting_point + " Boiling: " + boiling_point + " Color: " + color + " Suffix: " + suffix;
     }
 }
